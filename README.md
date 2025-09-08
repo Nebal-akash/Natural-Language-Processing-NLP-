@@ -1,2 +1,2 @@
 # Natural-Language-Processing-NLP-
-Hey i am learning NLP so to post in it on github i need  new repo and discription right so can you give me discri[tion for that
+A personal repository documenting my journey into Natural Language Processing (NLP). Includes experiments with text preprocessing, tokenization, embeddings, classification models, and other core NLP techniques.
